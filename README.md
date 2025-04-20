@@ -30,3 +30,10 @@ O projeto está disponível online, você pode acessá-lo através do link abaix
 - Feedback visual para carregamento e erros.
 - Layout responsivo para diferentes tamanhos de tela.
 
+## Screenshots
+
+### Tela Inicial
+![Tela Inicial](src/screenshots/print-1.png)
+
+### Resultado da Busca
+![Resultado da Busca](src/screenshots/print-2.png)
